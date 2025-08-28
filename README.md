@@ -49,7 +49,7 @@ python3 gui.py
 4. Click "Launch"
 5. Wait for completion!
 
-
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 
 
