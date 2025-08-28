@@ -49,4 +49,8 @@ python3 gui.py
 4. Нажмите "Launch"
 5. Ждите завершения обработки!
 
+## 📝 Лицензия
+
+Этот проект лицензирован под MIT License - подробности в файле [LICENSE](LICENSE).
+
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
