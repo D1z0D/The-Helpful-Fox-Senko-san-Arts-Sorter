@@ -48,3 +48,5 @@ python3 gui.py
 3. Выберите директорию в которой будут отсортированные арты
 4. Нажмите "Launch"
 5. Ждите завершения обработки!
+
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
