@@ -1,4 +1,10 @@
 # The-Helpful-Fox-Senko-san-Arts-Sorter
+
+### 🌍 Languages 
+[![English](https://img.shields.io/badge/English-100%25-red)](README.md)
+[![Russian](https://img.shields.io/badge/Русский-100%25-blue)](README_ru.md)
+
+
 Do you have a folder with 3000 Senko, Shiro and Sora pictures? Just pass it to the script and it will sort your images!
 
 This is a simple script with a trained "YOLO" model. The input is a folder with images and the path to the final folder where the sorting will be performed.
